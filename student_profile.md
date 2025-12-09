@@ -1,22 +1,22 @@
 # Student Profile
 
 ## Basic Information
-- **Name:** [Your full name]
-- **Username:** [Your GitHub username]
-- **Email:** [Your school email]
+- **Name:** Anthony Richard Antczak
+- **Username:** AntXtra
+- **Email:** 354222770@educ.dpcdsb.org
 
 ## About Me
-- **Major/Program:** [Your major]
-- **Year:** [Freshman/Sophomore/Junior/Senior]
-- **Interests:** [What are you interested in learning?]
+- **Major/Program:** Computer Science
+- **Year:** Senior
+- **Interests:** Computational/scientific computing
 
 ## Experience
-- **Programming Languages I've Used:** [List any, or write "None yet!"]
-- **Why I'm Taking This Course:** [Your reason]
+- **Programming Languages I've Used:** Python, C++
+- **Why I'm Taking This Course:** To increase my skills in coding further beyond what I can currently can do
 
 ## Goals
-- **What I Want to Learn:** [What do you hope to get from this class?]
-- **Career Interests:** [What field are you interested in?]
+- **What I Want to Learn:** Learn new concepts and data structures, but also how to cooperate with others
+- **Career Interests:** Computational sciences related to mathematical modelling and astrophysics
 
 ## Fun Fact
-[Share something interesting about yourself!]
+I eat only natural sugars
